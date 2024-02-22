@@ -36,9 +36,9 @@ E-mail: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.
 
 ## ÍNDICE DE AULAS
 
-- [Semana 1: Apresentação da disciplina e introdução Java](#semana-1-0802-0902)
-- [Semana 2: Tipos de dados](#semana-2-1502-1602)
-- [Semana 3: TAD Pilha sequencial/estática](#semana-3-2202-2302)
+- [Semana 1: Apresentação da disciplina e introdução Java](#semana-1-0902)
+- [Semana 2: Tipos de dados](#semana-2-1602)
+- [Semana 3: TAD Pilha sequencial/estática](#semana-3-2302)
 
 
 ## Semana 1 (09/02)
