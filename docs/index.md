@@ -7,12 +7,12 @@
 > **Universidade Presbiteriana Mackenzie**<br>
 > **FCI** – Faculdade de Computação e Informática<br>
 > **Ciência da Computação**<br>
-> Disciplina: **Estrutura de Dados I - 03G** (3ª etapa)<br>
-> Professores: **André Kishimoto** (teoria 03G) e **Leonardo Massayuki Takuno** (laboratório 03G11)
+> Disciplina: **Estrutura de Dados I** (3ª etapa)<br>
+> Professores: **André Kishimoto** (teoria) e **Leonardo Massayuki Takuno** (laboratório)
 
 > **1º semestre 2024**<br>
-> **segunda-feira**, **09:20** às **11:00** - 03G11 (prédio 31 - sala 401)<br>
-> **sexta-feira**, **07:30** às **09:10** - 03G (prédio 33 - sala 102)
+> **segunda-feira**, **09:20** às **11:00** (2hs/aula) - 03G11 (**prédio 31 - sala 401**)<br>
+> **sexta-feira**, **07:30** às **09:10** (2hs/aula) - 03G (**prédio 33 - sala 102**)
 
 ### Calendário Escolar
 
