@@ -39,6 +39,7 @@
 - [Semana 1: Apresentação da disciplina e introdução Java](#semana-1-0902)
 - [Semana 2: Tipos de dados](#semana-2-1602)
 - [Semana 3: TAD Pilha sequencial/estática](#semana-3-2302)
+- [Semana 4: TAD Pilha sequencial/estática](#semana-4-0103)
 
 
 ## Semana 1 (09/02)
