@@ -108,3 +108,23 @@
   - Capítulo 5, seção 5.1 (Pilhas)
 - CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
   - Capítulo 15, seção 15.1 (Pilhas)
+
+
+## Semana 4 (01/03)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- TAD Pilha sequencial/estática.
+
+### Arquivos
+
+- [Problemas de pilha (pdf)](conteudo/semana-4/EDI-2024.1%20-%20Problemas%20de%20pilha.pdf)
+
+### Referências e recursos
+
+- GOODRICH, M. T.; TAMASSIA, R. **Estruturas de dados e algoritmos em Java**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 5, seção 5.1 (Pilhas)
+- CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 15, seção 15.1 (Pilhas)
