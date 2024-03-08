@@ -40,6 +40,7 @@
 - [Semana 2: Tipos de dados](#semana-2-1602)
 - [Semana 3: TAD Pilha sequencial/estática](#semana-3-2302)
 - [Semana 4: TAD Pilha sequencial/estática](#semana-4-0103)
+- [Semana 5: TAD Fila sequencial/estática](#semana-5-0803)
 
 
 ## Semana 1 (09/02)
@@ -129,3 +130,24 @@
   - Capítulo 5, seção 5.1 (Pilhas)
 - CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
   - Capítulo 15, seção 15.1 (Pilhas)
+
+
+## Semana 5 (08/03)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- TAD Fila sequencial/estática.
+
+### Arquivos
+
+- [Mini-zine sobre fila (queue) (pdf)](conteudo/semana-5/minizine_fila_ak.pdf)
+
+### Referências e recursos
+
+- GOODRICH, M. T.; TAMASSIA, R. **Estruturas de dados e algoritmos em Java**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 5, seção 5.2 (Filas)
+- CELES, W.; CERQUEIRA, R.; RANGEL, J. L. **Introdução a Estruturas de Dados com técnicas em programação em C, 2ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 15, seção 15.2 (Filas)
+
