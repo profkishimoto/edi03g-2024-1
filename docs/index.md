@@ -29,6 +29,16 @@
 - **E-mail**: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.br</a>
 
 
+## DATAS IMPORTANTES
+
+**Observação**: Datas planejadas e sujeitas a alterações.
+
+- **P1**: 05/04/2024
+- **P2**: 24/05/2024
+- **SUB**: 07/06/2024
+- **PF**: 14/06/2024
+
+
 ## EXERCÍCIOS E AVALIAÇÕES
 
 **Atenção!** As entregas das atividades devem ser realizadas pelo Moodle!
@@ -45,7 +55,7 @@
 - [Semana 7: Revisão do conteúdo para a prova P1](#semana-7-2203)
 
 
-## Semana 1 (09/02)
+## ■■■■■ Semana 1 (09/02) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -73,7 +83,7 @@
 - KISHIMOTO, A. **Configuração da máquina para desenvolvimento Java**. Disponível [aqui](conteudo/semana-1/EDI%20-%20Configuração%20da%20máquina%20para%20desenvolvimento%20Java%20-%20v1.2.pdf).
 
 
-## Semana 2 (16/02)
+## ■■■■■ Semana 2 (16/02) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -94,7 +104,7 @@
   - Capítulo 4 (Objetos e classes)
 
 
-## Semana 3 (23/02)
+## ■■■■■ Semana 3 (23/02) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -114,7 +124,7 @@
   - Capítulo 15, seção 15.1 (Pilhas)
 
 
-## Semana 4 (01/03)
+## ■■■■■ Semana 4 (01/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -134,7 +144,7 @@
   - Capítulo 15, seção 15.1 (Pilhas)
 
 
-## Semana 5 (08/03)
+## ■■■■■ Semana 5 (08/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -154,7 +164,7 @@
   - Capítulo 15, seção 15.2 (Filas)
 
 
-## Semana 6 (15/03)
+## ■■■■■ Semana 6 (15/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -174,7 +184,7 @@
   - Capítulo 15, seção 15.3 (Fila dupla)
 
 
-## Semana 7 (22/03)
+## ■■■■■ Semana 7 (22/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
