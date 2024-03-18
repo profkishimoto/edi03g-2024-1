@@ -46,13 +46,13 @@
 
 ## ÍNDICE DE AULAS
 
-- [Semana 1: Apresentação da disciplina e introdução Java](#semana-1-0902)
-- [Semana 2: Tipos de dados](#semana-2-1602)
-- [Semana 3: TAD Pilha sequencial/estática](#semana-3-2302)
-- [Semana 4: TAD Pilha sequencial/estática](#semana-4-0103)
-- [Semana 5: TAD Fila sequencial/estática](#semana-5-0803)
-- [Semana 6: TAD Fila dupla sequencial/estática](#semana-6-1503)
-- [Semana 7: Revisão do conteúdo para a prova P1](#semana-7-2203)
+- [Semana 1: Apresentação da disciplina e introdução Java](#-semana-1-0902-)
+- [Semana 2: Tipos de dados](#-semana-2-1602-)
+- [Semana 3: TAD Pilha sequencial/estática](#-semana-3-2302-)
+- [Semana 4: TAD Pilha sequencial/estática](#-semana-4-0103-)
+- [Semana 5: TAD Fila sequencial/estática](#-semana-5-0803-)
+- [Semana 6: TAD Fila dupla sequencial/estática](#-semana-6-1503-)
+- [Semana 7: Revisão do conteúdo para a prova P1](#-semana-7-2203)-
 
 
 ## ■■■■■ Semana 1 (09/02) ■■■■■
