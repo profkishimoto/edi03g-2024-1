@@ -53,6 +53,7 @@
 - [Semana 5: TAD Fila sequencial/estática](#-semana-5-0803-)
 - [Semana 6: TAD Fila dupla sequencial/estática](#-semana-6-1503-)
 - [Semana 7: Revisão do conteúdo para a prova P1](#-semana-7-2203-)
+- [Semana 8: Feriado](#-semana-8-2903-)
 
 
 ## ■■■■■ Semana 1 (09/02) ■■■■■
@@ -199,3 +200,13 @@
 ### Referências e recursos
 
 - Ver semanas anteriores.
+
+
+## ■■■■■ Semana 8 (29/03) ■■■■■
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Feriado. Bom descanso!
+
